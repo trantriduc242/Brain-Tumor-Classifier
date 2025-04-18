@@ -1,4 +1,4 @@
-### 2. 🧠 Brain Tumor Classification via MRI Scans
+### 🧠 Brain Tumor Classification via MRI Scans
 A medical image classification tool that identifies brain tumor types using deep learning.
 
 **🔧 Features:**
